@@ -68,17 +68,18 @@ Recommendations: Narcos: Mexico, Queen of the South, Shooter, etc.
 ## 📊 Power BI Dashboards
 
 ### Dashboard 1: Netflix Content Overview  
-<img src="dashboards/dashboard_1.png" width="100%"/>
+<img src="dashboard_1.png" width="100%"/>
+
 
 ---
 
 ### Dashboard 2: Genre & Rating Insights  
-<img src="dashboards/dashboard_2.png" width="100%"/>
+<img src="dashboard_2.png" width="100%"/>
 
 ---
 
 ### Dashboard 3: Titles, Durations & Origins  
-<img src="dashboards/dashboard_3.png" width="100%"/>
+<img src="dashboard_3.png" width="100%"/>
 
 ---
 
