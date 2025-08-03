@@ -21,17 +21,28 @@ php-template
 
 ## 🧪 Exploratory Data Analysis (Python)
 
-<img src="eda_screenshots/plot1.png" width="600"/>
-<img src="eda_screenshots/plot2.png" width="600"/>
-<img src="eda_screenshots/plot3.png" width="600"/>
-<img src="eda_screenshots/plot4.png" width="600"/>
-<img src="eda_screenshots/plot5.png" width="600"/>
-<img src="eda_screenshots/plot6.png" width="600"/>
-<img src="eda_screenshots/plot7.png" width="600"/>
-<img src="eda_screenshots/plot8.png" width="600"/>
-<img src="eda_screenshots/plot9.png" width="600"/>
-<img src="eda_screenshots/plot10.png" width="600"/>
-<img src="eda_screenshots/plot11.png" width="600"/>
+<img src="plot1.png" width="600"/>
+
+<img src="plot2.png" width="600"/>
+
+<img src="plot3.png" width="600"/>
+
+<img src="plot4.png" width="600"/>
+
+<img src="plot5.png" width="600"/>
+
+<img src="plot6.png" width="600"/>
+
+<img src="plot7.png" width="600"/>
+
+<img src="plot8.png" width="600"/>
+
+<img src="plot9.png" width="600"/>
+
+<img src="plot10.png" width="600"/>
+
+<img src="plot11.png" width="600"/>
+
 
 ---
 
