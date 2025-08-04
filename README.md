@@ -93,6 +93,6 @@ Recommendations: Narcos: Mexico, Queen of the South, Shooter, etc.
 ## 👩‍💻 Author
 
 **Silla Shaju**  
-📌 MSc Data Science | Data Analyst Intern  
+📌 MSc Data Science | Data Science Intern  
 🎓 Internship at Unified Mentor Pvt Ltd  
 🔗 [GitHub](https://github.com/si-lla)
